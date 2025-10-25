@@ -3,7 +3,7 @@ JobNavigator-Multi-Agent is a smart career assistant using a multi-agent system.
 
 # JobNavigator: A Multi-Agent Approach
 
-<img src="multiagent.png" alt="JobNavigator-Multi-Agent" width="500">
+<img src="multiagent.png" alt="JobNavigator-Multi-Agent" width="1413">
 
 ## 演示
 https://github.com/user-attachments/assets/f1e191ae-19c4-48a0-b24f-dfd59bd9240a
